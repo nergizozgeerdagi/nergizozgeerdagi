@@ -28,6 +28,7 @@
    <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=HrmsProjectBackend&show_icons=true&theme=dark">
     <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=HrmsProjectFrontend&show_icons=true&theme=dark">
    <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=CProgrammingCourse&show_icons=true&theme=dark">
+      <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=PythonForBasicLevel&show_icons=true&theme=dark">
  <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=JavaCamp&show_icons=true&theme=dark">
    <img height=177  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nergizozgeerdagi&theme=tokyonight&layout=compact">
   <img height=140 src="https://github-profile-trophy.vercel.app/?username=nergizozgeerdagi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="nergizozgeerdagi" />
