@@ -58,7 +58,7 @@
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
   ![image](https://user-images.githubusercontent.com/71608318/131256238-6e1b89b7-5bfb-403e-a132-d344b52b9849.png)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31w5wnwj3ntbznfjezbl6rl6644q&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=31w5wnwj3ntbznfjezbl6rl6644q&redirect=true)
 <!-- BLOG-POST-LIST:END -->  
 </details>
 
