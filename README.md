@@ -34,6 +34,19 @@
   <img height=140 src="https://github-profile-trophy.vercel.app/?username=nergizozgeerdagi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="nergizozgeerdagi" />
 
 </div>
+  
+    <summary>🔥 Streak Stats</summary>
+  <br/>
+   <p align="center">
+  <a href="https://github.com/nergizozgeerdagi">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nergizozgeerdagi&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+</details>
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+<img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=at
 
   
   
