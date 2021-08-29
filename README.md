@@ -57,8 +57,10 @@
     <summary>🎧 Recent Blog Post</summary>
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31w5wnwj3ntbznfjezbl6rl6644q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31w5wnwj3ntbznfjezbl6rl6644q&cover_image=true&theme=default)]]
+![image](https://user-images.githubusercontent.com/71608318/131256342-75f9950e-4d10-48ec-a732-b1c5b9ecf28b.png)
+
 <!-- BLOG-POST-LIST:END -->  
+  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=31w5wnwj3ntbznfjezbl6rl6644q&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31w5wnwj3ntbznfjezbl6rl6644q&cover_image=true&theme=default)]]
 </details>
 
 
