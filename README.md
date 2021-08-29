@@ -61,7 +61,7 @@ If things goes well, this section should automatically be replaced by a list of 
 <div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 </details>
 
----
+
 </details>
   <details>
 <summary> 𝑪𝒐𝒏𝒕𝒂𝒄𝒕 𝑴𝒆 📫</summary>
