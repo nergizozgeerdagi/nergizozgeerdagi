@@ -19,11 +19,8 @@
     
  <img height=177 src="https://github-readme-stats.vercel.app/api?username=nergizozgeerdagi&show_icons=true&theme=dark" alt="nergizozgeerdagi" />
   
-
-  
   </div>
   
- 
  <div align="center">
    <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=HrmsProjectBackend&show_icons=true&theme=dark">
     <img height=125 src="https://github-readme-stats.vercel.app/api/pin?username=nergizozgeerdagi&repo=HrmsProjectFrontend&show_icons=true&theme=dark">
@@ -34,7 +31,9 @@
   <img height=140 src="https://github-profile-trophy.vercel.app/?username=nergizozgeerdagi&theme=gruvbox&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=5" alt="nergizozgeerdagi" />
 
 </div>
+ 
   
+  </details>
 <details> 
   <summary>🔥 Streak Stats</summary>
   <br/>
@@ -45,6 +44,7 @@
 </p>
   
 <details>
+  
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nergizozgeerdagi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
