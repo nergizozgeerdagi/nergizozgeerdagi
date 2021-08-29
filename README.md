@@ -50,7 +50,17 @@
   <br/>
 <img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nergizozgeerdagi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </details>
-  
+  ## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+
+<br/>  
+
   
 ---
 </details>
