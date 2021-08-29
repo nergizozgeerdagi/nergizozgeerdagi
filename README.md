@@ -44,6 +44,7 @@
   </a>
 </p>
 </details>
+  
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
