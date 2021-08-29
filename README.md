@@ -35,7 +35,8 @@
 
 </div>
   
-    <summary>🔥 Streak Stats</summary>
+<details> 
+  <summary>🔥 Streak Stats</summary>
   <br/>
    <p align="center">
   <a href="https://github.com/nergizozgeerdagi">
@@ -46,8 +47,8 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
-<img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=at
-
+<img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nergizozgeerdagi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</details>
   
   
 ---
