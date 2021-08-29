@@ -43,13 +43,11 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nergizozgeerdagi&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
-</details>
   
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <img alt="NergizERDAGI's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nergizozgeerdagi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
-</details>
   
   
 <br/> 
